@@ -1,7 +1,7 @@
-# Assignment 1 - Review of C# Basic Concepts and Introduction to Git
+﻿# Assignment 1 - Review of C# Basic Concepts and Introduction to Git
 ## Due 9-20-2016
 
-## Author
+## Author Susan Mumma
 
 ## Description
 
@@ -82,3 +82,4 @@ Suggestion/Hints:
 ## Outside Resources Used
 
 ## Known Problems, Issues, And/Or Errors in the Program
+The console runs but it doesn't display anything.  I need help!
