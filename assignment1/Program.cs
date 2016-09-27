@@ -41,6 +41,7 @@ namespace assignment1
                 }
                 else
                 {
+                    //This is to close the program down.
                     if (invoke == "2")
                     {
                         Console.WriteLine("Goodbye");
@@ -56,6 +57,7 @@ namespace assignment1
 
             try
             {
+                //Sets the increments at 0 to be incremented each time.
                 int increments = 0;
 
                 //Displays the items and name of said items if one selects the option 1.
